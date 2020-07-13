@@ -1,4 +1,5 @@
-### Hellowww 👋 I am Himanshu. This is where I dump my worst code😄, but surely it improves with every next push. 
+### <div align="center"> Hellowww 👋 I am Himanshu.</div><br> 
+### <div align="center">This is where I dump my worst code😄, but surely it improves with every next push.</div><br>
 
 <!--
 **Himanshu372/Himanshu372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Trying to be better than yesterday. Curious and constantly learning.  
+### <div align="center">Trying to be better than yesterday. Curious and constantly learning.</div>  
