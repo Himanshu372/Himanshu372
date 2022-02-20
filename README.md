@@ -1,6 +1,4 @@
-### <div align="center">Cold code storage, code will live here beyond me</div><br>
-### <div align="center">Code quality isnt the greatest, but improves with every new push</div><br>
-### <div align="center">Trying to be better than yesterday. Curious and constantly learning.</div>
+### <div align="center">Trying to be better than yesterday.</div>
 <!--
 **Himanshu372/Himanshu372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
